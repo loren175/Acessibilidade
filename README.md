@@ -20,4 +20,4 @@ Desafio do nível 2 do curso Explorer da Rocketseat, onde o projeto (02) inicial
 
 ## 👾 Discord
 
->rafas#762
+>rafas#7622
